@@ -1,0 +1,40 @@
+body { 
+    font-family: Arial, sans-serif; 
+}
+.container { 
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+h2 {
+    text-align: center; 
+}
+label { 
+    font-weight: bold; 
+    display: block; 
+    margin-top: 10px; 
+}
+input, select, textarea { 
+    width: 100%; 
+    padding: 8px; 
+    margin-top: 5px; 
+}
+button { 
+    margin-top: 20px; 
+    width: 100%; 
+    padding: 10px; 
+    background-color: #4CAF50; 
+    color: white; 
+    border: none; 
+    cursor: pointer; 
+}
+button:hover { 
+    background-color: #45a049; 
+}
+
+footer{
+    text-align: center; 
+    padding: 10px; 
+    margin-top: 20px; 
+    background-color: #f1f1f1;
+}
